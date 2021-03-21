@@ -1,5 +1,14 @@
+Hello Git
+
+! 
+
 LOL
+<<<<<<< HEAD
 123
 456
 New line
 3490209430294
+=======
+
+123
+>>>>>>> parent of fb94b47 (third commit)
