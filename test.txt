@@ -1,4 +1,4 @@
-Hello Git Branch
+Hello Git Branch   rebase
 123
 456
 New line
